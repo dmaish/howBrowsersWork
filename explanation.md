@@ -19,11 +19,17 @@ In the case of http, https, file, and others, once the resource has been retriev
  This is the platform made to ensure the user can navigate the browser.Most major web browsers have these user interface elements in common:
 
   1._Back and forward buttons_ to go back to the previous resource and forward respectively.
+  
   2._A refresh or reload button_ to reload the current resource.
+  
   3._A stop button_ to cancel loading the resource. In some browsers, the _stop button_ is merged with the reload button.
+  
   4.A _home button_ to return to the user's home page.
+  
   5.An _address bar_ to input the Uniform Resource Identifier (URI) of the desired resource and display it.
+  
   6.A _search bar_ to input terms into a web search engine. In some browsers, the search bar is merged with the address bar.
+  
   7.A _status bar_ to display progress in loading the resource and also the URI of links when the cursor hovers over them, and page zooming capability.
 
 ### browser extensibility
